@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Test Stemmer",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/tests/test_stemmer.py",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
